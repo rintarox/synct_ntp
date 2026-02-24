@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <string.h>
-#include "../config.h"
+#include "config.h"
 #include "libntpq.h"
 
 #define CTL_OP_READSTAT 1	// ntp_control.h 
